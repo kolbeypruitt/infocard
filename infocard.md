@@ -18,6 +18,12 @@ tags:
   - WebSockets
   - Jest
   - AI Tooling
+  - C#
+  - .NET Core
+  - ASP.NET
+  - Kubernetes
+  - Docker
+  - Google Cloud
 open_to:
   - full-time
   - contract
@@ -26,7 +32,7 @@ open_to:
 # Kolbey Pruitt
 
 **Senior Software Engineer** · Full-Stack, Frontend-Ready
-Tulsa Metro, OK (Remote) · [kolbeypruitt@gmail.com](mailto:kolbeypruitt@gmail.com) · [github.com/kolbeypruitt](https://github.com/kolbeypruitt) · [linkedin.com/in/kolbeypruitt](https://linkedin.com/in/kolbeypruitt)
+Tulsa Metro, OK (Remote) · [kolbeypruitt@gmail.com](mailto:kolbeypruitt@gmail.com) · [kolbeypruitt.com](https://kolbeypruitt.com) · [github.com/kolbeypruitt](https://github.com/kolbeypruitt) · [linkedin.com/in/kolbeypruitt](https://linkedin.com/in/kolbeypruitt)
 
 ---
 
@@ -59,7 +65,7 @@ Senior engineer with 9+ years building production systems across the full stack 
 ### Innov8tive — Software Developer
 *Jan 2017 – Jan 2018 · Oklahoma City, OK*
 
-- Built and maintained full-stack application features across backend and frontend, including PostgreSQL schema design, query tuning, and React UI work
+- Built and maintained full-stack application features using C#, .NET Core, and ASP.NET alongside PostgreSQL schema design, query tuning, and React UI work
 - Delivered relational database work including stored procedures, migrations, and performant data access patterns
 
 ### Clevyr, Inc. — Software Engineer
@@ -75,8 +81,18 @@ Senior engineer with 9+ years building production systems across the full stack 
 |------|-------------|
 | Frontend | React, TypeScript, Next.js, Angular — complex UIs, state management, component architecture |
 | Real-Time | WebSockets, live dashboards, real-time data display across distributed systems |
-| Backend | Node.js, TypeScript, REST API design, GraphQL, service architecture |
+| Backend | Node.js, TypeScript, C#, .NET Core, ASP.NET, REST API design, GraphQL, service architecture |
 | Databases | PostgreSQL, MongoDB, SQL Server, schema design & query tuning |
-| Cloud / Infra | AWS, Azure — production-grade deployments and observability |
+| Cloud / Infra | AWS, Azure, Google Cloud, Kubernetes, Docker |
 | AI Tooling | Claude, GitHub Copilot, Cursor |
 | Testing | Jest — writing, debugging, and maintaining test suites |
+
+---
+
+## Projects
+
+### [Hymnal](https://hymnal.kolbeypruitt.com/)
+A modern web app that digitizes traditional church hymnals. Searchable lyrics across 257+ gospel hymns, sheet music rendering in the browser, and a "Sing Together" feature for synchronized group singing. Built with Next.js.
+
+### [Camphost.io](https://camphost.io)
+An all-in-one campground management platform. Handles reservations, payments (Square, Stripe), real-time availability, and guest communication — serving both campground operators and campers looking to book.
